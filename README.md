@@ -1,2 +1,2 @@
-# prep-course-henry
-modulo 2, repositorio de prueba.
+es una prueba de como crear un repositorio y clonarlo desde github.
+
